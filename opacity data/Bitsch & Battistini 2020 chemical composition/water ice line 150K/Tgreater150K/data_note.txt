@@ -1,0 +1,5 @@
+The FeS_200K.lnk data was used. This was chosen due to Fig.4 stating that T>150K.
+
+[Fe/H]=+0.4: FeS: 17.6% -> 17.7% (otherwise, the sum of abundances wouldn't add up to 1.)
+
+[Fe/H]=-0.2: Fe2O3: 10.4% -> 10.5% (otherwise, the sum of abundances wouldn't add up to 1.)

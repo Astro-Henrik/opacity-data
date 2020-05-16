@@ -1,0 +1,1 @@
+The FeS_100K.lnk data was used. This was chosen due to Fig.5 stating that T<150K.

@@ -1,0 +1,3 @@
+The FeS_200K.lnk data was used. This was chosen due to Fig.4 stating that T>150K.
+
+Top: Fe2O3: 10.4% -> 10.5% (otherwise, the sum of abundances wouldn't add up to 1.)

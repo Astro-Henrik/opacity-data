@@ -1,0 +1,1 @@
+The following folder contains 4 main data sets. In most cases, „FINAL RATIOS“ are the one you would like to go for. Those contain the opacity data including CH4, CO2 and CO. „Bitsch & Battistini 2020 chemical composition“ contains the ratios given by the figures in the paper. „Chemical species test“ contains the opacity data for test runs of certain properties of the data.
