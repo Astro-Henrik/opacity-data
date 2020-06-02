@@ -1,0 +1,26 @@
+9                              ; Nr of dust species
+1d0                            ; Grain size in micron
+1000                           ; Nr of wavelength points
+0.05                           ; Smallest wavelength in micron
+10000                          ; Largest wavelength in micron
+200                            ; Nr of temperature sampling points
+3.                             ; T_min
+3000.                          ; T_max
+4370.                          ; T_star
+0.01                           ; Dust-to-gas ratio
+
+0.2192E+00 1.0288 20.   8.  CO_10K    ; Opacity 1: abun, dens, t_evap, powlaw, name
+0.1253E+00 0.47 30.     8.  CH4_20K   ; Opacity 2: abun, dens, t_evap, powlaw, name
+0.7642E-01 1.5 70.      8.  CO2_50K   ; Opacity 3: abun, dens, t_evap, powlaw, name
+0.1690E+00 1.0   150.   8.  h2oice    ; Opacity 4: abun, dens, t_evap, powlaw, name
+0.4480E-01 5.00 371.    8.  Fe3O4     ; Opacity 5: abun, dens, t_evap, powlaw, name
+0.7314E-01 4.84 704.    8.  FeS       ; Opacity 6: abun, dens, t_evap, powlaw, name
+0.1524E+00 3.275 1354.  8.  Mg2SiO4   ; Opacity 7: abun, dens, t_evap, powlaw, name
+0.4634E-01 5.24 1357.   8.  Fe2O3     ; Opacity 8: abun, dens, t_evap, powlaw, name
+0.9340E-01 3.2 1500.    8.  MgSiO3    ; Opacity 9: abun, dens, t_evap, powlaw, name
+
+
+0. 1.326 70. 8. CO2_10K         ; Opacity 1: abun, dens, t_evap, powlaw, name
+0. 3.0 1500. 8.  pyrmg70      ; Opacity 1: abun, dens, t_evap, powlaw, name
+0. 4.84 704. 8.  FeS_200K     ; Opacity 1: abun, dens, t_evap, powlaw, name
+0.0 2.0 30000  8.  carbon      ; Opacity 2: abun, dens, t_evap, powlaw, name
